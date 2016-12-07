@@ -3,13 +3,12 @@ Base styles
 ------------------------*/
 
 body
-{
-	margin: 20px 140px  20px 140px;
-    text-align: center;
-	padding: 0;
-	color: #E5E0BB;
-	background-color: #403E34;
-    font-family: 'Noto Sans', sans-serif;
+{   
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)
+    ),
+    url(http://s1.picswalls.com/wallpapers/2016/06/10/4k-desktop-background_065226855_309.jpg);
+  background-size: cover;
+  font-family: 'Source Sans Pro', sans-serif;
     
 }
 
