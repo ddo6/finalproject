@@ -74,17 +74,15 @@ Layout styles
 	margin: 0 auto;
 }
 
-/*.header
-{
-    background:url('http://blogs-images.forbes.com/jacobmorgan/files/2014/05/internet-of-things-2.jpg?width=960') no-repeat center top #FFF;
-    color: #fff;
-	/*background: #999;
-	padding: 1em 1.25em;
-}*/
+header {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+}
 
-.header-heading { margin: 0; 
-                color: #FFF9CF;
-                }
 
 .nav-bar
 {
