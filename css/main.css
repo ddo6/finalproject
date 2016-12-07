@@ -5,9 +5,6 @@ Base styles
 body
 {   
    margin:0px 0px;
-   background-color : #293340 ;
-   font-family: 'Source Sans Pro', sans-serif;
-    
 }
 
 /*Hero Stuff */
@@ -251,27 +248,3 @@ Single styles
 	padding-left: 5px;
 }
 
-/* -----------------------
-Wide styles
-------------------------*/
-
-@media (min-width: 42em)
-{
-	.header { padding: 1.5em 3em; }
-	.nav-bar { padding: 1em 3em; }
-	.content { padding: 2em 3em; }
-	.footer { padding: 2em 3em; }
-	
-	.nav li
-	{
-		display: inline;
-		margin: 0 1em 0 0;
-	}
-	
-	.nav a
-	{
-		display: inline;
-		padding: 0;
-		border-bottom: 0;
-	}
-}
