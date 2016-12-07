@@ -4,19 +4,17 @@ Base styles
 
 body
 {   
-  background-color : #293340 ;
-  background-size: cover;
-  font-family: 'Source Sans Pro', sans-serif;
+   margin:0px 0px;
+   background-color : #293340 ;
+   background-size: cover;
+   font-family: 'Source Sans Pro', sans-serif;
     
 }
 
 #bg {
-    background-size: cover;
-    background-size: cover;
-    height: 100vh;
-    /* Preserve aspet ratio */
-    min-width: 100%;
-    min-height: 100%;
+    background-size:cover;
+    position:relative;
+    height:100vh;
 }
 
 h1,h2,h3,h4,h5,h6
