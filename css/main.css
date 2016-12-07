@@ -4,9 +4,7 @@ Base styles
 
 body
 {   
-  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)
-    ),
-    url("http://s1.picswalls.com/wallpapers/2016/06/10/4k-desktop-background_065226855_309.jpg");
+  background: url("http://s1.picswalls.com/wallpapers/2016/06/10/4k-desktop-background_065226855_309.jpg");
   background-size: cover;
   font-family: 'Source Sans Pro', sans-serif;
     
