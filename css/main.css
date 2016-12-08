@@ -9,7 +9,7 @@ html,body
 
 header
 {
-    background-image: url(http://www.filmsofcrawford.com/sitebuildercontent/sitebuilderpictures/skyline.jpg);
+    background-image: ('/img/skyline.jpg');
     height: 100%;
     background-size: cover;
 }
