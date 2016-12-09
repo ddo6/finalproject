@@ -31,13 +31,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: black;
-}
-
-logo
-{
-    content:url("https://i.ytimg.com/vi/hovsNPSXWnY/maxresdefault.jpg");
-    text-align: left;
-    height: 20px;
+    height: 86px;
 }
 
 li {
