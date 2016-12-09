@@ -1,7 +1,10 @@
 html
 {
-    width: 960px;
-    margin: 0 auto;
+   background: url("http://cdn.wallpapersafari.com/33/54/qy5dnY.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 body
