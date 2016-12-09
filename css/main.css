@@ -61,32 +61,27 @@ p
 /* Nav Bar */
 ul 
 {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: black;
-    width: 960px;
-    float: left;
+    text-align: right;
+    width: 100%;
+    background-color: #3F3F40;
+    height: 20px;
 }
 
 li 
 {
-    float: left;
+    display:inline;
 }
 
 li a
 {
-    display: block;
     color: white;
-    text-align: center;
-    padding: 14px 16px;
+    padding: 0 10px;
     text-decoration: none;
 }
 
 li a:hover 
 {
-    background-color: #111;
+    background-color: #7E7E7F;
 }
 
 /* Content */
