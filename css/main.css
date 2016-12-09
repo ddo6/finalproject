@@ -1,7 +1,6 @@
 html
 {
- width: 960px;   
- background-color: black;
+    width: 960px;
     margin: 0 auto;
 }
 
@@ -10,10 +9,9 @@ body
 	width: 960px; 
     text-align: center;
 	padding: 0;
-	color: #3E3E40;
-	background-color: black;
-    font-family: 'Noto Sans', sans-serif;
-    
+	color: #3C403D;
+	background-color: #F0FFF4;
+    font-family: 'Noto Sans', sans-serif;    
 }
 
 #banner {
@@ -82,7 +80,6 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: black;
 }
 
 li {
@@ -130,8 +127,8 @@ li a:hover {
 
 .footer
 {
-	color: #fff;
-	background: #000;
+	color: #F0FFF4;
+	background: #787F7A;
 	padding: 1em 1.25em;
 }
 
