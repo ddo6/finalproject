@@ -1,11 +1,8 @@
 html
 {
-   background: url("http://cdn.wallpapersafari.com/33/54/qy5dnY.jpg") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-    margin: 0 auto;
+  width: 960px;   
+  background-color: #FDFDFF;
+  margin: 0 auto;
 }
 
 body
@@ -18,12 +15,12 @@ body
     font-family: 'Noto Sans', sans-serif;    
 }
 /* Hero Image */
-#banner {
+#banner 
+{
   clear: both;
   background-image: url("https://www.tesla.com/sites/default/files/red-tesla-model-s.jpg");
   height: 363px;
   width: 960px;
-  margin-bottom: 50px;
   color: white;  
 }
 
