@@ -13,16 +13,17 @@ body
 	background-color: #3C403D;
     font-family: 'Noto Sans', sans-serif;    
 }
-
+/* Hero Image */
 #banner {
   clear: both;
   background-image: url("https://www.tesla.com/sites/default/files/red-tesla-model-s.jpg");
   height: 363px;
   width: 960px;
   margin-bottom: 50px;
-  color: white;
-  
+  color: white;  
 }
+
+/*Headings */
 
 h1,h2,h3,h4,h5,h6
 {
@@ -48,45 +49,31 @@ h5 { font-size: 1em;
     font-family: 'Alegreya', serif;} /* 16px */
 h6 { font-size: .875em; } /* 14px */
 
-/*p
-{
-	margin: 0 0 1.5em;
-	line-height: 1.5;
-}*/
-
 p
 {
-    
     max-width: 600px;   
-   margin: 0 auto 20px;
+    margin: 0 auto 20px;
     font-family: 'Alegreya', serif;
     color: #F9F9FF;
 }
 
-a:link { color: royalblue; }
-a:visited { color: purple; }
-a:focus { color: black; }
-a:hover { color: green; }
-a:active { color: red; }
-
-/* -----------------------
-Layout styles
-------------------------*/
-
-ul {
-    height: 86px;
+/* Nav Bar */
+ul 
+{
     list-style-type: none;
-    text-align: center;
     margin: 0;
     padding: 0;
     overflow: hidden;
+    background-color: black;
 }
 
-li {
-    float: left;
+li 
+{
+    float: right;
 }
 
-li a {
+li a
+{
     display: block;
     color: white;
     text-align: center;
@@ -94,10 +81,12 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+li a:hover 
+{
     background-color: #111;
 }
 
+/* Content */
 .container
 {
     max-width: 50em;
