@@ -125,8 +125,8 @@ p
     margin: 1%;
     float: left;
     width: 23%;
-    height: 400px;
-    background-color: white;
+    background-color: black;
+    color: white;
 }
 
 .footer
