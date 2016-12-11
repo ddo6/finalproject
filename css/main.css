@@ -18,8 +18,9 @@ body
 #banner 
 {
   clear: both;
-  background-image: url("http://buyersguide.caranddriver.com/media/assets/submodel/7637.jpg");
+  background-image: url("http://roa.h-cdn.co/assets/15/41/980x490/landscape-1444156742-tesla.jpg");
   background-repeat: no-repeat;
+  background-size:100% 100%;
   height: 363px;
   width: 960px;
   color: black;  
