@@ -112,11 +112,21 @@ p
 }
 
 
-.content
+#content
 {
 	padding: 1em 1.25em;
 	background-color: #F9F9FF;
     color: #3E3E40;
+}
+
+b {
+    display: inline-block;
+    position: relative;
+    margin: 1%;
+    float: left;
+    width: 23%;
+    height: 400px;
+    background-color: white;
 }
 
 .footer
