@@ -11,7 +11,7 @@ body
     text-align: center;
 	padding: 0;
 	color: white;
-	background-color: black;
+	background-color: white;
     font-family: 'Noto Sans', sans-serif;    
 }
 /* Hero Image */
@@ -132,8 +132,8 @@ p
 
 #footer
 {
-	color: black;
-	background: #787F7A;
+	color:black;
+	background: white;
 	padding: 1em 1.25em;
 }
 
