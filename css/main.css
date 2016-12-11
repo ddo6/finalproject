@@ -19,9 +19,11 @@ body
 {
   clear: both;
   background-image: url("http://buyersguide.caranddriver.com/media/assets/submodel/7637.jpg");
+  background-repeat: no-repeat;
   height: 363px;
   width: 960px;
-  color: white;  
+  color: black;  
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* Nav Bar */
