@@ -90,6 +90,20 @@ p
     color: black;
 }
 
+/*  Sidebar */
+.float-left-area 
+{
+		  width: 70%;
+		  float: left;
+}
+
+.float-right-area 
+{
+		  width: 30%;
+		  float: left;
+}
+
+
 /* Content */
 .container
 {
