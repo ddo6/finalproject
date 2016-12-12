@@ -148,6 +148,10 @@ h6 { font-size: .875em; } /* 14px */
     list-style-type: none;
 }
 
+.menu_simple li {
+ display:block;   
+}
+
 .menu_simple  li a {
     text-decoration: none;
     color: white; 
