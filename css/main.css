@@ -15,6 +15,16 @@ body
     background: linear-gradient(#3498DB, #2980B9);
     font-family: 'Noto Sans', sans-serif;    
 }
+
+#header
+{
+    background-color: #3D668F;
+    height: 50px;
+    width: 80px;
+    box-shadow: 0 4px 4px -2px #232323;
+    -moz-box-shadow: 0 4px 4px -2px #232323;
+    -webkit-box-shadow: 0 4px 4px -2px #232323;   
+}
 /* Hero Image */
 #banner 
 {
