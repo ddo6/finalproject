@@ -28,10 +28,10 @@ body
 
 #sidebar
 {
-    width: 100%;
+    
     background-color: #ECF0F1;
     height:500px;
-    position: fixed;
+    
 }
 /* Hero Image */
 #banner 
@@ -132,6 +132,7 @@ h6 { font-size: .875em; } /* 14px */
 		  padding: 5px 5px 5px 5px;
 		  border: #999999 1px solid;
 		  min-height: 60px;
+          position: fixed;
 }
 .inner-right ul {
     list-style-type: none;
