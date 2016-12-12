@@ -25,6 +25,11 @@ body
     -moz-box-shadow: 0 4px 4px -2px #232323;
     -webkit-box-shadow: 0 4px 4px -2px #232323;   
 }
+
+#sidebar
+{
+ background-color: #ECF0F1;
+}
 /* Hero Image */
 #banner 
 {
@@ -106,6 +111,7 @@ h6 { font-size: .875em; } /* 14px */
 .float-right-area {
 		  width: 30%;
 		  float: left;
+            background-color: #ECF0F1;
 		  }
 
 .inner-left	  
