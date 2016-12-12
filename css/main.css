@@ -219,6 +219,9 @@ h6 { font-size: .875em; } /* 14px */
 	color:white;
 	background: #E74C3C;
 	padding: 1em 1.25em;
+    box-shadow: 0 10px 10px -2px #232323;
+    -moz-box-shadow: 0 4px 4px -2px #232323;
+    -webkit-box-shadow: 0 4px 4px -2px #232323;
 }
 
 /* Image Cards Codse */
