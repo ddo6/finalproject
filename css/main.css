@@ -28,6 +28,7 @@ body
 
 #sidebar
 {
+    width: 100%;
     background-color: #ECF0F1;
     height:500px;
     position: fixed;
