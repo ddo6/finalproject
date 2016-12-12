@@ -28,8 +28,9 @@ body
 
 #sidebar
 {
- background-color: #ECF0F1;
+    background-color: #ECF0F1;
     height:500px;
+    position: fixed;
 }
 /* Hero Image */
 #banner 
