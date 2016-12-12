@@ -12,6 +12,7 @@ body
 	padding: 0;
 	color: white;
 	background-color: #3498DB;
+    background: linear-gradient(#3498DB, #2980B9);
     font-family: 'Noto Sans', sans-serif;    
 }
 /* Hero Image */
