@@ -115,6 +115,7 @@ h6 { font-size: .875em; } /* 14px */
 		  width: 30%;
 		  float: left;
             background-color: #ECF0F1;
+            
 		  }
 
 .inner-left	  
@@ -132,7 +133,7 @@ h6 { font-size: .875em; } /* 14px */
 		  padding: 5px 5px 5px 5px;
 		  border: #999999 1px solid;
 		  min-height: 60px;
-          position: fixed;
+          
 }
 .inner-right ul {
     list-style-type: none;
