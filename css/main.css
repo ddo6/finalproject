@@ -47,7 +47,7 @@ body
 }
 
 /*  Button */
-.button {
+a.button {
     background-color: #E74C3C; 
     border: none;
     color: white;
