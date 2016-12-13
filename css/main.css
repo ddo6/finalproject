@@ -212,7 +212,14 @@ h6 { font-size: .875em; } /* 14px */
     color: white;
 }
 
-#b {
+#area
+{
+    width: 960px;
+    height: 100px;
+}
+
+#b 
+{
     display: inline-block;
     font-family: 'Playfair Display', serif;
     position: relative;
