@@ -216,7 +216,7 @@ h6 { font-size: .875em; } /* 14px */
 #area
 {
     width: 960px;
-    height: 200px;
+    height: 100%;
 }
 
 #b 
